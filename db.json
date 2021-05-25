@@ -1,0 +1,95 @@
+{
+  "recipes": [
+    {
+      "id": 1,
+      "name": "1pasta med curry sås",
+			"rating": "4",
+			"description":"very good yes yes",
+      "ingredients":[
+				{"ingredientName":"tomatoes","amount":"5 kg"},
+				{"ingredientName":"tomatoes","amount":"5 kg"},
+				{"ingredientName":"tomatoes","amount":"5 kg"}
+			]
+    },
+    {
+      "id": 2,
+      "name": "2pasta med curry sås",
+			"rating": "4",
+			"description":"very good yes yes",
+      "ingredients":[
+				{"ingredientName":"tomatoes","amount":"5 kg"},
+				{"ingredientName":"tomatoes","amount":"5 kg"},
+				{"ingredientName":"tomatoes","amount":"5 kg"}
+			]
+    },
+    {
+      "id": 3,
+      "name": "3pasta med curry sås",
+			"rating": "4",
+			"description":"very good yes yes",
+      "ingredients":[
+				{"ingredientName":"tomatoes","amount":"5 kg"},
+				{"ingredientName":"tomatoes","amount":"5 kg"},
+				{"ingredientName":"tomatoes","amount":"5 kg"}
+			]
+    },
+    {
+      "id": 4,
+      "name": "4pasta med curry sås",
+			"rating": "4",
+			"description":"very good yes yes",
+      "ingredients":[
+				{"ingredientName":"tomatoes","amount":"5 kg"},
+				{"ingredientName":"tomatoes","amount":"5 kg"},
+				{"ingredientName":"tomatoes","amount":"5 kg"}
+			]
+    },
+    {
+      "id": 5,
+      "name": "5pasta med curry sås",
+			"rating": "4",
+			"description":"very good yes yes",
+      "ingredients":[
+				{"ingredientName":"tomatoes","amount":"5 kg"},
+				{"ingredientName":"tomatoes","amount":"5 kg"},
+				{"ingredientName":"tomatoes","amount":"5 kg"}
+			]
+    },
+    {
+      "id": 6,
+      "name": "6pasta med curry sås",
+			"rating": "4",
+			"description":"very good yes yes",
+      "ingredients":[
+				{"ingredientName":"tomatoes","amount":"5 kg"},
+				{"ingredientName":"tomatoes","amount":"5 kg"},
+				{"ingredientName":"tomatoes","amount":"5 kg"}
+			]
+    },
+    {
+      "id": 7,
+      "name": "7pasta med curry sås",
+			"rating": "4",
+			"description":"very good yes yes",
+      "ingredients":[
+				{"ingredientName":"tomatoes","amount":"5 kg"},
+				{"ingredientName":"tomatoes","amount":"5 kg"},
+				{"ingredientName":"tomatoes","amount":"5 kg"}
+			]
+    },
+    {
+      "id": 8,
+      "name": "pasta med curry sås",
+			"rating": "4",
+			"description":"very good yes yes",
+      "ingredients":[
+				{"ingredientName":"tomatoes","amount":"5 kg"},
+				{"ingredientName":"tomatoes","amount":"5 kg"},
+				{"ingredientName":"tomatoes","amount":"5 kg"}
+			]
+    }
+  ],
+	"ingredients":[
+
+	]
+}
